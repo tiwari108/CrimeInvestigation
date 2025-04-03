@@ -1,1 +1,2 @@
 # CrimeInvestigation
+The Criminal Investigation System is a web-based application designed to assist law enforcement agencies in managing and tracking criminal cases efficiently. It provides a centralized database to store case details, suspect records, and investigation reports. The system features advanced search, role-based authentication, and automated report generation, improving the accuracy and speed of investigations. By enhancing data accessibility and security, this project helps streamline criminal case management and decision-making.
